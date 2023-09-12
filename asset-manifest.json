@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eemm098/to-doList.git/static/css/main.a4cbfacd.css",
+    "main.js": "/eemm098/to-doList.git/static/js/main.4cfd4747.js",
+    "index.html": "/eemm098/to-doList.git/index.html",
+    "main.a4cbfacd.css.map": "/eemm098/to-doList.git/static/css/main.a4cbfacd.css.map",
+    "main.4cfd4747.js.map": "/eemm098/to-doList.git/static/js/main.4cfd4747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4cbfacd.css",
+    "static/js/main.4cfd4747.js"
+  ]
+}
